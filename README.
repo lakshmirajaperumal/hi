@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title> Flextron Tech - Home </title>
+</head>
+<body a link="black" vlink="black" style="background-color:blue;">
+<center><h1>FlextronTech.com</h1></center>
+<center>
+
+
+<b>Home</b> |<a href="about.html">About </a> | <a href="news.html">News</a> | <a href="contact.html">Contact</a>
+
+
+
+</center>
+
+
+</body>
+</html>
